@@ -1,6 +1,6 @@
-### 👋 Hi there
+### 👋 Hi there ### WIP
 
-I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
+I'm Kiran, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
 
 <p align="center">
   <a href="https://samirsaci.com">
